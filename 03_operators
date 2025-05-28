@@ -1,0 +1,25 @@
+#arithmatic operator
+a=22
+b=12
+c=a+b
+print(c)
+
+#assignment operator
+a=1
+print(a)
+b=5
+b+=4 #increment the value of b by 4 and assign the value to b 
+print(b)
+
+#comparision operator
+a=4>2
+print(a) 
+
+#logical opertors
+e=True or False
+
+#truthtable of or
+print ("True or False is",True or False)
+print ("True or True is",True or False)
+print ("False or False is",False or True)
+print ("False or true is",True or False)
