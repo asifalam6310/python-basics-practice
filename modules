@@ -1,0 +1,9 @@
+import pyjokes 
+# print("printing jokes")
+jokes=pyjokes.get_joke()
+print(jokes)
+"""
+thank you
+that was my program for jokes to get print
+""" 
+this program contents introduction about modules and comments and the use of PIP
