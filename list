@@ -1,0 +1,5 @@
+list=["apple","books",30,23.32,"vaish",True]
+print(list[2])
+list[2]=22 #unlike string list are mutable
+print(list [2])
+print(list[1:4])
