@@ -1,0 +1,13 @@
+list=["right","books",56,345.987543,False,"looks"]
+print(list)
+list.append("vaishnavi")
+print(list)
+
+friend=[45,65,3,7,2,44,980]
+friend.sort()
+print(friend)
+
+list.insert(4,56)
+print(list)
+list.pop(3)
+print(list)
