@@ -1,0 +1,8 @@
+a=("good","bad",45,35,76,893.4,False)
+print(a)
+print(type(a))
+no=a.count(35)
+print(no)
+v=a.index(45)
+print(v)
+print(len(a))
